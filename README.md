@@ -9,4 +9,6 @@ ii) Computer & Internet Security: A Hands-on Approach by Wenliang Du
 
 iii) Computer Networking A Top-Down Approach 8th edition by Kurose and Rose  
 
-iv) Behringer HC 2000BNC Wireless Active Noise-Canceling Headphones with Bluetooth Connectivity -- got this thanks to the talk at AVPTI, Rajkot.  
+iv) [Zines](https://wizardzines.com/) - awesome drawings by Julia Evans  
+
+v) Behringer HC 2000BNC Wireless Active Noise-Canceling Headphones with Bluetooth Connectivity -- got this thanks to the talk at AVPTI, Rajkot.  
