@@ -11,4 +11,3 @@ iii) Computer Networking A Top-Down Approach 8th edition by Kurose and Rose
 
 iv) [Zines](https://wizardzines.com/) - awesome drawings by Julia Evans  
 
-v) Behringer HC 2000BNC Wireless Active Noise-Canceling Headphones with Bluetooth Connectivity -- got this thanks to Parvez Faruki (AVPTI, Rajkot).  
